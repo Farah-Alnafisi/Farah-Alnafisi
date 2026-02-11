@@ -12,10 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Hi, I'm Farah 👋
+<h1 align="center">Farah Alnafisi</h1>
 
-Software Engineering graduate focused on web development and software systems.  
+<p align="center">
+Software Engineering graduate focused on web development and software systems.<br>
 Focused on developing structured web applications and building efficient software solutions.
+</p>
 
 ### Tools & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

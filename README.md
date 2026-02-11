@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 <h1 align="center">Farah Alnafisi</h1>
 
 <p align="center">
-Software Engineering graduate focused on web development and software systems.<br>
-Focused on developing structured web applications and building efficient software solutions.
+Software Engineering graduate focused on web development and software systems,
+developing structured web applications and efficient software solutions.
 </p>
 
 ### Tools & Technologies

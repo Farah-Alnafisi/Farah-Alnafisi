@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Farah-Alnafisi/Farah-Alnafisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,21 +14,14 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Farah 👋
 
-Software Engineering graduate with an interest in web development and software systems.
+Software Engineering graduate with an interest in web development and software systems.  
+Focused on developing structured web applications and building efficient software solutions.
 
-### 👩‍💻 Who am I?
-I am a Software Engineering graduate focused on developing structured web applications and building efficient software solutions.
-
-### 🔭 What am I currently working on?
-- Improving my web development skills  
-- Building personal web-based projects  
-- Strengthening my understanding of software architecture  
-
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 - Languages: Java, Python, JavaScript, C++
 - Web: HTML, CSS
 - Tools: Git, GitHub, Power BI
 
-### 📫 How to reach me?
-- LinkedIn: (add your link here)
+### How to reach me?
+- LinkedIn:https://www.linkedin.com/in/farah-alnafisi/
 

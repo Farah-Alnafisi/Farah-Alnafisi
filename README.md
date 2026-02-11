@@ -36,6 +36,10 @@ Committed to building practical applications and strengthening technical skills 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,js,cpp,html,css,git,github" />
+</p>
+
 ### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farah-alnafisi/)
 

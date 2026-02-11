@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hi, I'm Farah 👋
 
-Software Engineering graduate with an interest in web development and software systems.  
+Software Engineering graduate focused on web development and software systems.  
 Focused on developing structured web applications and building efficient software solutions.
 
 ### Tools & Technologies

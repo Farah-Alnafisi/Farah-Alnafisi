@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 <h1 align="center">Farah Alnafisi</h1>
 
 <p align="center">
-Software Engineering Graduate | Web Development & Software Systems
+Fresh Software Engineering Graduate | Web Development & Software Systems
 </p>
 
 ### About Me
 
 Fresh Software Engineering graduate focused on web development and structured software solutions. 
-Committed to developing practical applications and strengthening technical skills through hands-on projects.
+Committed to building practical applications and strengthening technical skills through hands-on projects.
 
 ### Tools & Technologies
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)

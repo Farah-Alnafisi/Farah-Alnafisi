@@ -23,6 +23,8 @@ Fresh Software Engineering Graduate | Web Development & Software Systems
 Fresh Software Engineering graduate focused on web development and structured software solutions. 
 Committed to building practical applications and strengthening technical skills through hands-on projects.
 
+Continuously working on new projects—stay tuned!
+
 ### Tools & Technologies
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,js,cpp,html,css,git,github,vscode" />
